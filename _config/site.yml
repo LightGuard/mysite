@@ -1,0 +1,6 @@
+profiles:
+  production:
+    base_url: http://lightguard.github.com/mysite
+    deploy:
+      host: github_pages
+      branch: gh-pages
